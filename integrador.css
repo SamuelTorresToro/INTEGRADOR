@@ -1,0 +1,13 @@
+.fontSmall {
+    font-size: .8rem;
+    font-weight: bold;
+}
+
+body {
+    background-image: url("/Imagenes/planets.jpg");
+  }
+
+.card-footer {
+    background-color: rgb(2, 15, 19);
+}
+
